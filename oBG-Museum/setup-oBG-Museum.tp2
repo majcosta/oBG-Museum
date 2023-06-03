@@ -1,0 +1,12 @@
+BACKUP ~weidu_external/oBG-Museum/backup~
+SUPPORT ~https://github.com/majcosta/oBG-Museum/~
+VERSION ~1.0~
+
+LANGUAGE
+~English~
+~%MOD_FOLDER%/lang/en_US~
+~%MOD_FOLDER%/lang/en_US/setup-oBG-Museum.tra~
+
+BEGIN @1 DESIGNATED 100
+REQUIRE_PREDICATE GAME_IS ~bg1 totsc~ @2
+INCLUDE ~%MOD_FOLDER%/baldurdash/baldurdash.tph~
