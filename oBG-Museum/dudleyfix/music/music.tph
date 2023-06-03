@@ -1,0 +1,16 @@
+COPY
+    ~%MOD_FOLDER%/dudleyfix/music/BC2.mus~ ~music~
+    ~%MOD_FOLDER%/dudleyfix/music/bd1.mus~ ~music~
+    ~%MOD_FOLDER%/dudleyfix/music/BD2.mus~ ~music~
+    ~%MOD_FOLDER%/dudleyfix/music/BF2.mus~ ~music~
+    ~%MOD_FOLDER%/dudleyfix/music/bl1.mus~ ~music~
+    ~%MOD_FOLDER%/dudleyfix/music/BL2.mus~ ~music~
+    ~%MOD_FOLDER%/dudleyfix/music/BP2.mus~ ~music~
+    ~%MOD_FOLDER%/dudleyfix/music/CDay2.mus~ ~music~
+    ~%MOD_FOLDER%/dudleyfix/music/Chants.mus~ ~music~
+    ~%MOD_FOLDER%/dudleyfix/music/Dream.mus~ ~music~
+    ~%MOD_FOLDER%/dudleyfix/music/Dung2.mus~ ~music~
+    ~%MOD_FOLDER%/dudleyfix/music/Dung3.mus~ ~music~
+    ~%MOD_FOLDER%/dudleyfix/music/Tav2.mus~ ~music~
+    ~%MOD_FOLDER%/dudleyfix/music/Tav4.mus~ ~music~
+    ~%MOD_FOLDER%/dudleyfix/music/TDay2.mus~ ~music~
