@@ -25,3 +25,8 @@ BEGIN @4 DESIGNATED 220
 REQUIRE_PREDICATE GAME_IS ~bg1 totsc~ @100
 REQUIRE_COMPONENT "setup-oBG-Museum.tp2" 100 @101
 INCLUDE ~%MOD_FOLDER%/dudleyfix/music/music.tph~
+
+BEGIN @5 DESIGNATED 230
+REQUIRE_PREDICATE GAME_IS ~bg1 totsc~ @100
+REQUIRE_COMPONENT "setup-oBG-Museum.tp2" 100 @101
+INCLUDE ~%MOD_FOLDER%/dudleyfix/script/script.tph~

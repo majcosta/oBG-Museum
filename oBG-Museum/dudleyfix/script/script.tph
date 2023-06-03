@@ -1,0 +1,2 @@
+COPY
+    ~%MOD_FOLDER%/dudleyfix/script/CLERIC1.BS~ ~scripts~
