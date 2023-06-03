@@ -1,0 +1,13 @@
+COPY
+    ~%MOD_FOLDER%/avenger_racial_traits_fix/CHARMR.eff~ ~override~
+    ~%MOD_FOLDER%/avenger_racial_traits_fix/SLEEPR.eff~ ~override~
+    ~%MOD_FOLDER%/avenger_racial_traits_fix/SPPR204.SPL~ ~override~
+    ~%MOD_FOLDER%/avenger_racial_traits_fix/SPPR405.SPL~ ~override~
+    ~%MOD_FOLDER%/avenger_racial_traits_fix/SPPR982.SPL~ ~override~
+    ~%MOD_FOLDER%/avenger_racial_traits_fix/SPWI104.SPL~ ~override~
+    ~%MOD_FOLDER%/avenger_racial_traits_fix/SPWI116.SPL~ ~override~
+    ~%MOD_FOLDER%/avenger_racial_traits_fix/SPWI316.SPL~ ~override~
+    ~%MOD_FOLDER%/avenger_racial_traits_fix/SPWI506.SPL~ ~override~
+    ~%MOD_FOLDER%/avenger_racial_traits_fix/SPWI929.SPL~ ~override~
+    ~%MOD_FOLDER%/avenger_racial_traits_fix/SPWI930.SPL~ ~override~
+    ~%MOD_FOLDER%/avenger_racial_traits_fix/SPWI943.SPL~ ~override~

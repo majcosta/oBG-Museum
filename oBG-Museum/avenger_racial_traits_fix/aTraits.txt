@@ -1,0 +1,80 @@
+===============================
+===  Racial traits fix  =======
+===== (BG1) version 2.01  =====
+=======   by aVENGER   ========
+===============================
+
+
+Main Features:
+==============
+
+
+-  Elven characters gain 90% resistance to all sleep and charm related spells
+
+-  Half-Elven characters gain 30% resistance to all sleep and charm related spells
+
+
+Installation:
+=============
+
+Simply copy the content of this archive into the Override folder of Baldur's Gate 1.
+
+
+Description:
+============
+
+You may have noticed that in BG1&2 Elves and Half-Elves didn't get their charm and sleep resistances as per 2E AD&D rules. In fact,the resistances were not present at all,which could easily be confirmed by testing. I believe only IWD1 partially implemented these resistances by giving Elves complete immunity to low level charm spells. This mod will restore the missing resistances to Elves and Half-Elves as they were described in the 2E AD&D Player's Handbook:
+
+"Elven characters have 90% resistance to sleep and all charm-related spells. This is in addition to the normal saving throw allowed against a charm spell."
+
+"Half-Elven characters have a 30% resistance to sleep and all charm-related spells."
+
+
+Usage:
+======
+
+The resistances are implemented automatically once the mod is installed.
+
+
+Compatibility:
+==============
+
+This mod should be compatible with any other mods which do not use the above listed files. To be sure,simply check if those files are already present in the Override folder of Baldur's Gate 1. If they are not present before installing this mod there should be no compatibility issues.
+
+
+Known Bugs:
+===========
+
+* Even if a (Half)Elven character resists a charm spell, the spell icon on his portrait may still be present.
+
+
+Version changes:
+================
+
+
+2.01
+	- Mod successfully ported to BG1
+
+
+Archive Contains:
+=================
+
+CHARMR.EFF    -  Charm resistance effect file
+SLEEPR.EFF    -  Sleep resistance effect file
+SPPR204.SPL   -  modified CLERIC_CHARM_PERSON
+SPPR405.SPL   -  modified CLERIC_MENTAL_DOMINATION 
+SPPR982.SPL   -  modified TRAP_DIRE_CHARM 
+SPWI104.SPL   -  modified WIZARD_CHARM_PERSON 
+SPWI116.SPL   -  modified WIZARD_SLEEP 
+SPWI316.SPL   -  modified WIZARD_DIRE_CHARM
+SPWI506.SPL   -  modified WIZARD_DOMINATION
+SPWI929.SPL   -  modified SUCCUBUS_CHARM_FEMALE 
+SPWI930.SPL   -  modified SUCCUBUS_CHARM_MALE 
+SPWI943.SPL   -  modified SIRINE_DIRE_CHARM
+aTRAITS.TXT   -  this text file
+
+
+E-Mail:
+=======
+
+fallen_avenger@angelfire.com
