@@ -1,0 +1,3 @@
+COPY
+    ~%MOD_FOLDER%/dudleyfix/mission_pack_save/Baldur.gam~ ~Save/888888888-Mission-Pack-Save~
+    ~%MOD_FOLDER%/dudleyfix/mission_pack_save/Worldmap.wmp~ ~Save/888888888-Mission-Pack-Save~

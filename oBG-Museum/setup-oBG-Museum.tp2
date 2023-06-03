@@ -30,3 +30,8 @@ BEGIN @5 DESIGNATED 230
 REQUIRE_PREDICATE GAME_IS ~bg1 totsc~ @100
 REQUIRE_COMPONENT "setup-oBG-Museum.tp2" 100 @101
 INCLUDE ~%MOD_FOLDER%/dudleyfix/script/script.tph~
+
+BEGIN @6 DESIGNATED 240
+REQUIRE_PREDICATE GAME_IS ~bg1 totsc~ @100
+REQUIRE_COMPONENT "setup-oBG-Museum.tp2" 100 @101
+INCLUDE ~%MOD_FOLDER%/dudleyfix/mission_pack_save/mission_pack_save.tph~
